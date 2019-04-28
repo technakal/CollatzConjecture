@@ -1,0 +1,10 @@
+H:\Developer Projects\Repos\Collatz\Collatz\bin\Debug\netcoreapp2.2\Collatz.deps.json
+H:\Developer Projects\Repos\Collatz\Collatz\bin\Debug\netcoreapp2.2\Collatz.runtimeconfig.json
+H:\Developer Projects\Repos\Collatz\Collatz\bin\Debug\netcoreapp2.2\Collatz.runtimeconfig.dev.json
+H:\Developer Projects\Repos\Collatz\Collatz\bin\Debug\netcoreapp2.2\Collatz.dll
+H:\Developer Projects\Repos\Collatz\Collatz\bin\Debug\netcoreapp2.2\Collatz.pdb
+H:\Developer Projects\Repos\Collatz\Collatz\obj\Debug\netcoreapp2.2\Collatz.csproj.CoreCompileInputs.cache
+H:\Developer Projects\Repos\Collatz\Collatz\obj\Debug\netcoreapp2.2\Collatz.AssemblyInfoInputs.cache
+H:\Developer Projects\Repos\Collatz\Collatz\obj\Debug\netcoreapp2.2\Collatz.AssemblyInfo.cs
+H:\Developer Projects\Repos\Collatz\Collatz\obj\Debug\netcoreapp2.2\Collatz.dll
+H:\Developer Projects\Repos\Collatz\Collatz\obj\Debug\netcoreapp2.2\Collatz.pdb
